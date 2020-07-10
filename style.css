@@ -20,61 +20,53 @@ body {
   font-size: 30px;
 }
 
+#first{
+  position: absolute;
+  top: 150%;
+  left: 30%;
+  width: 70%;
+}
+
 #website{
   position:absolute;
   top: 120%;
   left: 20%;
 }
 
-#created{
-  position: absolute;
-  top: 230%;
-  right: 10%;
-}
-
-.onlyman{
-  background: powderblue;
-}
-
-#oneman{
-  position: absolute;
-  top: 330%;
-  left: 50%;
-}
-
-
-#first{
-  position: absolute;
-  top: 150%;
-  left: 30%;
-  width: 70%;
-
-}
-
 #second{
   position: absolute;
-  top: 180%;
+  top: 210%;
   width: 50%
+}
 
+#created{
+  position: absolute;
+  top: 220%;
+  right: 10%;
 }
 
 #third{
   background: #FFFFFF;
   position: absolute;
   width: 100%;
-  top: 310%;
+  top: 250%;
 }
 
+#oneman{
+  position: absolute;
+  top: 290%;
+  left: 50%;
+}
 
 #fourth{
   background: #FFFFFF;
   position: absolute;
-  top: 460%;
+  top: 380%;
 }
 
 #husband{
   position: absolute;
-  top: 560%;
+  top: 460%;
   left:40%;
 
 }
@@ -82,19 +74,166 @@ body {
 #fifth{
   background: #FFFFFF;
   position: absolute;
-  top: 600%;
-  left:30%;
+  top: 500%;
+  left:35%;
 }
 
 #father{
   background: #FFFFFF;
   position: absolute;
-  top: 700%;
+  top: 600%;
+}
+
+#sixth{
+  background: #FFFFFF;
+  position: absolute;
+  top: 580%;
+  left:3%;
+}
+
+#onedotar{
+  background: #FFFFFF;
+  position: absolute;
+  top: 680%;
 }
 
 
-#theonly{
+#seventh{
+  background: #FFFFFF;
   position: absolute;
+  top: 580%;
+  left:37%;
+}
+
+#twodotar{
+  background: #FFFFFF;
+  position: absolute;
+  top: 680%;
+  left: 35%;
+}
+
+
+#eight{
+  background: #FFFFFF;
+  position: absolute;
+  top: 580%;
+  left:70%;
+}
+
+#threedotar{
+  background: #FFFFFF;
+  position: absolute;
+  top: 680%;
+  left:67%;
+}
+
+#ninth{
+  background: #FFFFFF;
+  position: absolute;
+  top: 690%;
+  width: 100%;
+}
+
+#dotars{
+  background: #FFFFFF;
+  position: absolute;
+  top: 790%;
+  left: 50%;
+}
+
+#tenth{
+  background: #FFFFFF;
+  position: absolute;
+  top: 790%;
+}
+
+
+#funny{
+  background: #FFFFFF;
+  position: absolute;
+  top: 950%;
+  left: 20%;
+}
+
+#eleventh{
+  background: #FFFFFF;
+  position: absolute;
+  top: 830%;
+  right:5%;
+}
+
+#coffee{
+  background: #FFFFFF;
+  position: absolute;
+  top: 1020%;
+  left: 20%;
+}
+
+
+#appa{
+  background: #FFFFFF;
+  position: absolute;
+  font-size: 200px;
+  top: 1070%;
   left: 10%;
-  top: 190%;
+}
+
+#twelve{
+  background: #FFFFFF;
+  position:absolute;
+  opacity: 0.5;
+  top: 950%;
+  left:20%;
+}
+
+#smiles{
+  background: #FFFFFF;
+  position: absolute;
+  top: 1150%;
+  left: 10%;
+}
+
+#thirteen{
+  background: #FFFFFF;
+  position:absolute;
+  opacity: 0.5;
+  top: 1050%;
+  left:20%;
+}
+
+#guidance{
+  background: #FFFFFF;
+  position: absolute;
+  top: 1250%;
+  left: 10%;
+}
+
+#fourteen{
+  background: #FFFFFF;
+  position:absolute;
+  opacity: 0.5;
+  top: 1150%;
+  left:20%;
+}
+
+#love{
+  background: #FFFFFF;
+  position: absolute;
+  top: 1350%;
+  left: 10%;
+}
+
+
+#fifteen{
+  background: #FFFFFF;
+  position:absolute;
+  top: 1350%;
+  width: 100%;
+}
+
+#birthday{
+  background: #FFFFFF;
+  position: absolute;
+  top: 1550%;
+  left: 10%;
 }
