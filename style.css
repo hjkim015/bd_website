@@ -1,3 +1,66 @@
 body {
   background-color: lightgrey;
 }
+
+#welcome{
+  font-size: 350px;
+  text-align: center;
+  padding: 1px;
+  border: 10px solid #FFFFFF;
+  margin-bottom: 10px;
+}
+
+#scroll{
+  text-align: center;
+  border: 1px solid #FFFFFF;
+  margin-bottom: 250px;
+}
+
+.text{
+  font-size: 30px;
+}
+
+#website{
+  position:absolute;
+  top: 150%;
+  left: 20%;
+}
+
+#created{
+  position: absolute;
+  top: 200%;
+  right: 10%;
+}
+
+#oneman{
+  position: absolute;
+  top: 270%;
+  left: 50%;
+}
+#first{
+  position: absolute;
+  left: 30%;
+  width: 70%;
+
+}
+
+#second{
+  position: absolute;
+  top: 200%;
+  width: 50%
+
+}
+
+#third{
+  background: #FFFFFF;
+  position: absolute;
+  width: 100%;
+  top: 270%;
+
+}
+
+#theonly{
+  position: absolute;
+  left: 10%;
+  top: 190%;
+}
