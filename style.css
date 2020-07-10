@@ -22,7 +22,7 @@ body {
 
 #website{
   position:absolute;
-  top: 160%;
+  top: 120%;
   left: 20%;
 }
 
@@ -41,6 +41,7 @@ body {
 
 #first{
   position: absolute;
+  top: 150%;
   left: 30%;
   width: 70%;
 
@@ -48,7 +49,7 @@ body {
 
 #second{
   position: absolute;
-  top: 220%;
+  top: 180%;
   width: 50%
 
 }
@@ -57,7 +58,7 @@ body {
   background: #FFFFFF;
   position: absolute;
   width: 100%;
-  top: 310%;
+  top: 330%;
 
 }
 
