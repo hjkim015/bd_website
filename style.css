@@ -22,21 +22,23 @@ body {
 
 #website{
   position:absolute;
-  top: 150%;
+  top: 160%;
   left: 20%;
 }
 
 #created{
   position: absolute;
-  top: 200%;
+  top: 230%;
   right: 10%;
 }
 
 #oneman{
   position: absolute;
-  top: 270%;
+  top: 315%;
   left: 50%;
 }
+
+
 #first{
   position: absolute;
   left: 30%;
@@ -46,7 +48,7 @@ body {
 
 #second{
   position: absolute;
-  top: 200%;
+  top: 220%;
   width: 50%
 
 }
@@ -55,7 +57,7 @@ body {
   background: #FFFFFF;
   position: absolute;
   width: 100%;
-  top: 270%;
+  top: 310%;
 
 }
 
