@@ -32,6 +32,10 @@ body {
   right: 10%;
 }
 
+.onlyman{
+  background: powderblue;
+}
+
 #oneman{
   position: absolute;
   top: 330%;
@@ -59,8 +63,35 @@ body {
   position: absolute;
   width: 100%;
   top: 310%;
+}
+
+
+#fourth{
+  background: #FFFFFF;
+  position: absolute;
+  top: 460%;
+}
+
+#husband{
+  position: absolute;
+  top: 560%;
+  left:40%;
 
 }
+
+#fifth{
+  background: #FFFFFF;
+  position: absolute;
+  top: 600%;
+  left:30%;
+}
+
+#father{
+  background: #FFFFFF;
+  position: absolute;
+  top: 700%;
+}
+
 
 #theonly{
   position: absolute;
